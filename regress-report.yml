@@ -1,0 +1,30 @@
+---
+- summary: |
+    Проверка входа пользователя с существующими логином и паролем
+  status: pass
+  
+- summary: |
+    Оформление заказа
+  status: pass
+  
+- summary: |
+    Выбор русского языка 
+  status: pass
+ 
+- summary: |
+    Выбор категории товаров в магазине
+  status: pass
+  
+- summary: |
+    Проверка входа пользователя с несуществующими логином и паролем
+  status: pass
+  
+- summary: |
+    Регистрация пользователя
+  status: pass
+  
+- summary: |
+    Удаление товаров из корзины
+  status: pass
+  
+bugreports: []
